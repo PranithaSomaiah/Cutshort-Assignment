@@ -1,0 +1,133 @@
+body{background-color: rgb(206, 198, 198);
+    border: 10px solid rgb(48, 86, 156);
+    margin: 0px;
+    }
+    .div{
+      background-color:whitesmoke; 
+      width: device-width;
+      border: 1px solid blue;
+      text-align: center; 
+      padding: 13px;
+    }
+    
+    .div1 {
+        background-color:whitesmoke; 
+        width: 200px;
+        height: device-height;
+        border: 1px solid blue;
+        text-align: center;    
+         color:blue;
+      }
+      
+      table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 84.5%;
+        background-color: white;
+        position: relative;
+        left:202px;
+        margin: 2px;
+        bottom: 450px;
+      }
+      
+      td, th {
+        border: 1px solid #857daa;
+        text-align: left;
+        padding: 8px;
+      }
+      
+      tr:nth-child(even) {
+        background-color: #e2a4d8;
+      }
+      .myProgress1 {
+        width: 15%;
+        background-color: #ddd;
+      }
+      
+      .myBar1 {
+        width: 5%;
+        height: 20px;
+        background-color: #4CAF50;
+      }
+      .myProgress2 {
+        width: 15%;
+        background-color: #ddd;
+      }
+      
+      .myBar2 {
+        width: 11%;
+        height: 20px;
+        background-color: #4CAF50;
+      }
+      .myProgress3 {
+        width: 15%;
+        background-color: #ddd;
+      }
+      
+      .myBar3 {
+        width: 12%;
+        height: 20px;
+        background-color: #4CAF50;
+      }
+      .myProgress4 {
+        width: 15%;
+        background-color: #ddd;
+      }
+      
+      .myBar4 {
+        width: 20%;
+        height: 20px;
+        background-color: #4CAF50;
+      }
+      .icon{
+          font-size: 30px;
+          text-align: left;
+      }
+      .sidebar {
+        height: 100%;
+        width: 160px;
+        z-index: 1;
+        left: 0;
+        overflow-x: hidden;
+        padding-top: 16px;
+      }
+      
+      .sidebar a {
+        padding: 6px 8px 6px 16px;
+        text-decoration: none;
+        font-size: 20px;
+        display: block;
+      }
+      
+      .sidebar a:hover {
+        color: #f1a1f1;
+      }
+      
+      .skill{
+        background-color:whitesmoke; 
+              border: 1px solid blue;
+              text-align: center; 
+              padding: 3px;
+              width: 83.5%;
+              background-color: white;
+              position: relative;
+              left:202px;
+              bottom: 495px;
+            }
+        .container {
+          width: 100%;
+          background-color: #ddd;
+        }
+        
+        .week {
+          text-align: right;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          color: white;
+        }
+        
+        .week1 {width: 63%; background-color: rgb(76, 78, 175);}
+        .week2 {width: 80%; background-color: rgb(36, 20, 182);}
+        .week3 {width: 68%; background-color: #432fb8;}
+        .week4 {width: 60%; background-color: #4553a3;}
+      
